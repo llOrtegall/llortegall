@@ -1,122 +1,146 @@
+<div align="center">
+
+# 👋 Hola, soy Iván Ortega Garzón
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+TypeScript+%7C+React;Java+%7C+Spring+Boot;3%2B+a%C3%B1os+de+experiencia;Construyendo+el+futuro+con+c%C3%B3digo)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin-url)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llortegall)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IvanOrtega_97@hotmail.com)
 
-# 👋 Hola, soy Iván Ortega Garzón
+<img src="https://komarev.com/ghpvc/?username=llortegall&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-<div align="center">
-  
 </div>
-
-## 🚀 Full Stack Developer | Colombia 🇨🇴
-
-> Especializado en construir aplicaciones web escalables y robustas con TypeScript, Node.js, Java y React.
 
 ---
 
+## 🚀 Sobre mí
+
+```typescript
+const developer = {
+  name: "Iván Ortega Garzón",
+  location: "🇨🇴 Bogotá - Cali, Colombia",
+  role: "Full Stack Developer",
+  experience: "3+ años",
+  age: 28,
+  languages: {
+    spanish: "Nativo 🇪🇸",
+    english: "A2 🇺🇸"
+  },
+  workingOn: "Arquitecturas Cloud-Native & Microservicios",
+  learning: ["AWS", "Mobile Development", "Advanced Patterns"],
+  philosophy: ["Clean Code", "SOLID", "Performance", "Security"]
+};
+```
+
 <div align="center">
 
-### 💡 Sobre mí
+### 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=llortegall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llortegall&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-#### 👨‍💻 Perfil Profesional
+## 💻 Stack Tecnológico
 
-
-  ubicacion: "🌎 Bogota - Cali, Colombia",
-  rol: "💼 Full Stack Developer",
-  experiencia: "⏳ 3+ años",
-  edad: "🎂 28 años",
-  idiomas: ["🇪🇸 Español (Nativo)", "🇺🇸 Inglés (A2)"]
-
-
+### 🎨 Frontend
 <div align="center">
 
-![Coding](https://img.shields.io/badge/Focus-Full%20Stack-brightgreen?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-3%2B%20years-blue?style=flat-square)
-![Learning](https://img.shields.io/badge/Status-Learning%20Cloud-orange?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+### ⚙️ Backend
+<div align="center">
 
-#### 🎯 Especialización
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-  backend: {
-    primary: ["Node.js", "TypeScript", "Express"],
-    secondary: ["Java 17", "Spring Boot"],
-    architecture: ["REST APIs", "Microservicios"]
-  },
-  frontend: {
-    frameworks: ["React", "Next.js", "Angular"],
-    expertise: ["SSR", "CSR", "SSG"]
-  },
-  devOps: {
-    containers: ["Docker", "Docker Compose"],
-    cicd: ["Jenkins", "GitHub Actions"],
-    cloud: ["AWS", "Cloudflare"]
-  }
+</div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+### 🗄️ Bases de Datos
+<div align="center">
 
-#### 🌱 Actualmente Aprendiendo
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+</div>
+
+### 🚀 DevOps & Cloud
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🌱 Actualmente Aprendiendo
 
 <div align="center">
 
-![Cloud Native](https://img.shields.io/badge/Cloud--Native_Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Native_Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Mobile Dev](https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Microservices](https://img.shields.io/badge/Advanced_Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
+![Microservices](https://img.shields.io/badge/Advanced_Microservices-FF6C37?style=for-the-badge&logo=apache&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+---
 
-#### 💭 Filosofía de Código
+## 🎯 Filosofía de Desarrollo
 
-**⚡ Performance** • **📈 Escalabilidad** • **🔒 Seguridad** • **📝 Documentación** • **🤝 Trabajo en Equipo**
+<div align="center">
 
-</td>
-</tr>
-</table>
+| 💡 Principio | 📝 Descripción |
+|:---:|:---|
+| ⚡ **Performance** | Optimización constante y código eficiente |
+| 📈 **Escalabilidad** | Arquitecturas que crecen con el negocio |
+| 🔒 **Seguridad** | Prioridad en cada línea de código |
+| 📚 **Documentación** | Código que se explica a sí mismo |
+| 🤝 **Trabajo en Equipo** | Colaboración y comunicación efectiva |
+| 🧪 **Testing** | Calidad garantizada con pruebas |
+
+</div>
 
 ---
 
-### 🛠️ Stack Tecnológico
+## 📈 Actividad en GitHub
 
-**Frontend**
-```
-React • Next.js • Angular • Astro
-TypeScript • SSR/CSR/SSG • Responsive Design
-```
+<div align="center">
 
-**Backend**
-```
-Node.js • Express • TypeScript
-Java 17 • Spring Boot 3 • APIs REST
-Microservicios • JWT • Clean Architecture • SOLID
-```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llortegall&theme=tokyonight)](https://git.io/streak-stats)
 
-**Bases de Datos**
-```
-MySQL • PostgreSQL • Oracle • MongoDB
-Sequelize • Prisma • Optimización de consultas
-```
+</div>
 
-**DevOps & Cloud**
-```
-Docker • Docker Compose • Jenkins • GitHub Actions
-Nginx • Reverse Proxy • SSL/TLS
-AWS (EC2, S3, RDS) • Cloudflare (R2, DNS)
-Linux • CI/CD Pipelines
-```
+---
+
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+⭐️ From [llortegall](https://github.com/llortegall) | 🇨🇴 Made with ❤️ in Colombia
+
+</div>
