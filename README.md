@@ -32,18 +32,6 @@ const developer = {
   philosophy: ["Clean Code", "SOLID", "Performance", "Security"]
 };
 ```
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=llortegall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llortegall&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 💻 Stack Tecnológico
 
 ### 🎨 Frontend
