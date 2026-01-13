@@ -26,16 +26,13 @@
 
 #### 👨‍💻 Perfil Profesional
 
-```typescript
-const ivanOrtega = {
+
   ubicacion: "🌎 Cali, Colombia",
   rol: "💼 Full Stack Developer",
   experiencia: "⏳ 3+ años",
   edad: "🎂 28 años",
-  idiomas: ["🇪🇸 Español (Nativo)", 
-            "🇺🇸 Inglés (A2)"]
-};
-```
+  idiomas: ["🇪🇸 Español (Nativo)", "🇺🇸 Inglés (A2)"]
+
 
 <div align="center">
 
@@ -50,8 +47,6 @@ const ivanOrtega = {
 
 #### 🎯 Especialización
 
-```javascript
-const expertise = {
   backend: {
     primary: ["Node.js", "TypeScript", "Express"],
     secondary: ["Java 17", "Spring Boot"],
@@ -66,8 +61,6 @@ const expertise = {
     cicd: ["Jenkins", "GitHub Actions"],
     cloud: ["AWS", "Cloudflare"]
   }
-};
-```
 
 </td>
 </tr>
