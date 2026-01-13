@@ -1,16 +1,16 @@
-# 👋 Hola, soy Iván Ortega Garzón
-
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin-url)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llortegall)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IvanOrtega_97@hotmail.com)
 
+# 👋 Hola, soy Iván Ortega Garzón
+
+<div align="center">
+  
 </div>
 
 ## 🚀 Full Stack Developer | Colombia 🇨🇴
 
-> De soporte técnico a Full Stack Developer en 5 años. Especializado en construir aplicaciones web escalables y robustas con TypeScript, Node.js, Java y React.
+> Especializado en construir aplicaciones web escalables y robustas con TypeScript, Node.js, Java y React.
 
 ---
 
@@ -27,7 +27,7 @@
 #### 👨‍💻 Perfil Profesional
 
 
-  ubicacion: "🌎 Cali, Colombia",
+  ubicacion: "🌎 Bogota - Cali, Colombia",
   rol: "💼 Full Stack Developer",
   experiencia: "⏳ 3+ años",
   edad: "🎂 28 años",
