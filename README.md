@@ -84,8 +84,6 @@
 
 #### 💭 Filosofía de Código
 
-> *"Código limpio, escalable y bien documentado. De la infraestructura al código, construyendo soluciones completas."*
-
 **⚡ Performance** • **📈 Escalabilidad** • **🔒 Seguridad** • **📝 Documentación** • **🤝 Trabajo en Equipo**
 
 </td>
@@ -122,49 +120,3 @@ Nginx • Reverse Proxy • SSL/TLS
 AWS (EC2, S3, RDS) • Cloudflare (R2, DNS)
 Linux • CI/CD Pipelines
 ```
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/llortegall">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llortegall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llortegall&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-### 🎯 Proyectos Destacados
-
-🔹 **Plataforma de Compartir Archivos** - Cloudflare R2, URLs pre-firmadas, subida directa desde navegador  
-🔹 **Web Scraper Headless** - Puppeteer + FFmpeg para extracción y grabación de audio  
-🔹 **APIs REST Empresariales** - JWT, Sequelize, PostgreSQL con arquitectura limpia  
-🔹 **Infraestructura Containerizada** - Docker Compose + Nginx + Reverse Proxy  
-🔹 **Pipelines CI/CD** - Automatización con Jenkins y GitHub Actions  
-
-### 💼 Experiencia
-
-```yaml
-Actual:
-  - Freelance Full Stack Developer
-  - Arquitectura cloud y microservicios
-  - Automatización y DevOps
-
-Previo:
-  - Analista de Aplicaciones @ Multired S.A.
-  - Mejora 30% rendimiento consultas SQL
-  - Reducción 40% tiempos despliegue CI/CD
-```
-
-### 🎓 Certificaciones & Formación
-
-- 🎯 Backend con Node.js & Express - Platzi
-- ⚛️ Frontend con React & TypeScript - Platzi  
-- ☕ Spring Boot + Spring Data + JPA - Platzi
-- 🐳 DevOps con Docker & CI/CD - Platzi
-- 📊 Análisis de Datos con Power BI - CESDE
-- 🗣️ Inglés A2 - Centro Cultural Colombo Americano
-
-### 🌟 Filosofía de Desarrollo
-
-> Construyo aplicaciones priorizando **performance**, **escalabilidad** y **seguridad**. Cada línea de código tiene un propósito, cada arquitectura una razón. El resultado: sistemas robustos que crecen con el negocio.
